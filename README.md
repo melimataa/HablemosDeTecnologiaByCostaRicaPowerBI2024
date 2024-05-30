@@ -14,7 +14,7 @@ El objetivo de esta sesión es provocar una reflexión sobre el concepto de priv
 4. **_Introducción a Cloud Computing_** por **Melissa Mata**  
 Comprendiendo los conceptos básicos de Cloud Computing y una introducción a Google Cloud Platform.
 
-5. **_Ciencia de Datos y sus Impactos Revolucionarios_** por **Lincy Gonzalez**  
+5. **_Ciencia de Datos y sus Impactos Revolucionarios_** por **Lincy González**  
 Desde la predicción de tendencias hasta la optimización de procesos, la ciencia de datos ha generado gran impacto en las organizaciones y en la vida de las personas.
 
 6. **_Automatización Sencilla con Power Automate_** por **Alisson Navarro**  
