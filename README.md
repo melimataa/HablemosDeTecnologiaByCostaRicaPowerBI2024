@@ -1,5 +1,5 @@
 # Hablemos de Tecnología by Costa Rica Power BI 2024
-Este repositorio contiene el material que las ponentes del evento “Anfitrionas: Hablemos de Tecnología by Costa Rica Power BI 2024” desean compartir con el publico asistente.
+Este repositorio contiene el material que las ponentes compartirán del evento *“Anfitrionas: Hablemos de Tecnología by Costa Rica Power BI 2024”* con el público.
 
 Enlace al evento: [Hablemos De Tecnología By Costa Rica Power BI 2024](https://www.eventbrite.es/e/anfitrionas-hablemos-de-tecnologia-by-costa-rica-power-bi-2024-tickets-879571089807?aff=oddtdtcreator)
 
