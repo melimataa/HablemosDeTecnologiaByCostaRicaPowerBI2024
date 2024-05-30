@@ -8,7 +8,7 @@ Enlace al evento: [Hablemos De Tecnología By Costa Rica Power BI 2024](https://
 1. **_El Gobierno de Datos_**: Un Nuevo Comienzo por **Dixiana Rodríguez**    
 ¿Que se entendemos por Gobierno de Datos? ¿Cuál es la importancia de un buen gobierno del dato? Un transformador de la cultura organizacional.
 
-3. **_Rompiendo Paradigmas: Navegando entre Privacidad y Protección de Datos Persona_** por **Jessica Salazar Vega** 
+3. **_Rompiendo Paradigmas: Navegando entre Privacidad y Protección de Datos Persona_** por **Jessica Salazar Vega**  
 El objetivo de esta sesión es provocar una reflexión sobre el concepto de privacidad y protección de datos y permear una actitud de debida diligencia en relación con el tratamiento de los datos personales.
 
 4. **_Introducción a Cloud Computing_** por **Melissa Mata** 
