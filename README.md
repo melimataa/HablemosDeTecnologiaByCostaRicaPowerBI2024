@@ -26,5 +26,5 @@ Descubrir cómo GitHub Copilot revoluciona la forma en que escribimos código, p
 8. **_Power BI: ¿Y si lo Pintamos con R?_** por **Leda Araya**  
 En esta sesión se explorará funcionalidades adicionales que pueden utilizarse en Power BI al combinarse con R con el fin de explorar otras posibilidades de versatilidad que se pueden conseguir sin tener que recurrir a productos de terceros.
 
-9. **_No todo lo que Brilla es Oro: Técnicas Usadas para Tergiversar los Datos_** por **Andrea Loria**  
+9. **_No todo lo que Brilla es Oro: Técnicas Usadas para Tergiversar los Datos_** por **Andrea Loría**  
 Esta sesión explora el mundo de las visualizaciones de datos enfocada en la importancia ética de utilizar las técnicas correctas de visualización para garantizar la transparencia y la veracidad en nuestros reportes y la relevancia crucial de la alfabetización de datos en un mundo cada vez más guiado por la información.
